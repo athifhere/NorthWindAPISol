@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWindAPI", "NorthWindAP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{FFC8B8D2-C8EC-4D33-BBA5-E0AFFA1F1FD1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWindWebApp", "NorthWindWebApp\NorthWindWebApp.csproj", "{77959D71-7E1B-4031-9874-39401AE53544}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FFC8B8D2-C8EC-4D33-BBA5-E0AFFA1F1FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFC8B8D2-C8EC-4D33-BBA5-E0AFFA1F1FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFC8B8D2-C8EC-4D33-BBA5-E0AFFA1F1FD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77959D71-7E1B-4031-9874-39401AE53544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77959D71-7E1B-4031-9874-39401AE53544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77959D71-7E1B-4031-9874-39401AE53544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77959D71-7E1B-4031-9874-39401AE53544}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
